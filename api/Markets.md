@@ -18,7 +18,8 @@ Returns information for list of ```markets```
     "bid": 0.003,
     "ask": 0.004436923082864458,
     "volume": 0.01,
-    "last": 0.0036923077377514803
+    "last": 0.0036923077377514803,
+    "depth": "100000000"
   }
 ]
 ```
